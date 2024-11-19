@@ -1,0 +1,9 @@
+setup.py
+xs_gym/__init__.py
+xs_gym.egg-info/PKG-INFO
+xs_gym.egg-info/SOURCES.txt
+xs_gym.egg-info/dependency_links.txt
+xs_gym.egg-info/requires.txt
+xs_gym.egg-info/top_level.txt
+xs_gym/envs/__init__.py
+xs_gym/envs/my_env.py
